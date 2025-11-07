@@ -52,7 +52,7 @@
 
 **Pablo Ordenes**  
 Estudiante de Ingeniería Informática, INACAP, Chile  
-[GitHub](https://github.com/pabloordenes) – [LinkedIn](https://www.linkedin.com/in/pablo-ordenes-2b8085341/)
+[GitHub](https://github.com/pabloordenes) – [LinkedIn](https://www.linkedin.com/in/pabloordenes)
 
 ---
 
